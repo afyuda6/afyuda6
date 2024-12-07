@@ -5,7 +5,6 @@ Welcome to my GitHub profile!
 ## Connect with Me
 
 - LinkedIn: https://linkedin.com/in/afyuda6
-- Codeforces: https://codeforces.com/profile/afyuda6
 - Email: fajaryudaapriliano@gmail.com
 
 ---
